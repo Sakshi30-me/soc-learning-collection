@@ -1,2 +1,2 @@
-# tryhackme-soc-learning-collection
-Hands-on labs, SOC notes, DFIR practice, and learning progress from my cybersecurity journey.
+
+A **structured collection** of cybersecurity **investigations, hands-on labs, SOC analysis, DFIR practice, and security reflections** documenting technical observations, defensive thinking, and risk-oriented decision making.
