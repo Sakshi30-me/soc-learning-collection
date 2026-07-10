@@ -206,20 +206,57 @@ This reinforced the idea that collecting logs alone does not improve security un
 
 # Practical Assessment
 
-The practical exercise involved reviewing organizational documentation and local security configuration to evaluate the overall preparation state.
+The practical component of this room focused on assessing Nexus Financial's preparedness for responding to security incidents. Rather than investigating an active attack, the assessment involved reviewing organizational documentation and local security configurations to identify strengths, weaknesses, and potential gaps in the organization's incident response capability.
 
-Areas reviewed included:
-
-* Asset Inventory
-* Incident Response Policy
-* Communication Plan
-* Historical Incidents
-* Penetration Test Report
-* Local Security Policies
-
-The objective was not simply to answer questions but to understand how weaknesses in preparation can contribute to future security incidents.
+The review covered organizational documentation, security policies, historical incidents, penetration testing results, asset management, and workstation security settings. The objective was not simply to answer the lab questions but to evaluate how preparation influences an organization's ability to effectively detect, respond to, and recover from security incidents.
 
 ---
+
+## Hardware Asset Inventory
+
+<img width="991" height="510" alt="Screenshot 2026-07-06 194314" src="https://github.com/user-attachments/assets/eb39680f-2769-4c0d-a5cf-d800b672eb30" />
+
+The hardware asset inventory was reviewed to understand the organization's infrastructure, including system ownership, operating systems, and network addressing. Maintaining an accurate inventory is fundamental to incident response, as it enables responders to quickly identify affected assets, determine system ownership, and assess the scope of an incident.
+
+---
+
+## Penetration Test Findings
+
+<img width="1002" height="580" alt="Screenshot 2026-07-06 194513" src="https://github.com/user-attachments/assets/1b805c08-9575-4f0a-8e47-7c9299e1a5b2" />
+
+The penetration test report was examined to identify previously discovered security weaknesses and determine whether critical findings had been remediated. Reviewing historical assessment results helps prioritize remediation efforts and supports continuous improvement of the organization's security posture.
+
+---
+
+## Identity Security Assessment
+
+<img width="917" height="515" alt="3Screenshot 2026-07-06 194559" src="https://github.com/user-attachments/assets/1b93e9d7-5876-4df4-b7d2-c802adc9cf21" />
+
+A detailed review of the penetration test findings highlighted weaknesses in identity protection controls, including Multi-Factor Authentication (MFA). Identity security controls play a critical role during the Preparation phase by reducing the likelihood of unauthorized account compromise before an incident occurs.
+
+---
+
+## Historical Incident Review
+
+<img width="991" height="535" alt="4Screenshot 2026-07-06 194723" src="https://github.com/user-attachments/assets/f1794f36-9287-417a-8632-cdf101aebbff" />
+
+Historical incident records were reviewed to understand previously reported security events, their impact, and how they were handled. Studying past incidents provides valuable context for improving future response procedures and identifying recurring security trends.
+
+---
+
+## Local Security Policy Review
+
+<img width="1035" height="795" alt="5Screenshot 2026-07-06 194916" src="https://github.com/user-attachments/assets/688c27a3-50a8-47f3-9ad3-5cbc8a6b0384" />
+
+The Local Security Policy console was accessed to review security configurations implemented on the workstation. This assessment focused on understanding how local security settings contribute to authentication, authorization, and overall system hardening.
+
+---
+
+## Password Policy Assessment
+
+<img width="1167" height="812" alt="6Screenshot 2026-07-06 195105" src="https://github.com/user-attachments/assets/28204dbb-898c-4ecb-b424-f4c9ae7990c5" />
+
+Password policy settings, including password age and minimum password length, were examined to evaluate authentication controls. Reviewing these configurations helps determine whether password policies align with security best practices and organizational requirements for protecting user accounts.
 
 # Key Observations
 
