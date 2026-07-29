@@ -18,6 +18,8 @@ This repository documents my learning journey through each challenge by focusing
 
 **Theme:** The Byte Lotus Resort
 
+**Link:** https://tryhackme.com/hackerholidays
+
 > *The WiFi is open. Everything here is complimentary, including access to things you were never meant to find.*
 
 > *Over 14 days, move through the resort one room at a time. The guests are hiding something. The staff is hiding something. And VERA, the AI concierge, knows absolutely everything...*
@@ -26,10 +28,10 @@ This repository documents my learning journey through each challenge by focusing
 
 ## Challenge Progress
 
-| Day | Challenge                    | Status | Primary Topic                  |
-| --: | ---------------------------- | :----: | ------------------------------ |
+| Day | Challenge                    | Status | Primary Topic                   |
+| --: | ---------------------------- | :----: | --------------------------------|
 |  01 | The Concierge Knows Too Much |    ✅   | Prompt Injection, LLM Security |
-|  02 | Room 404                     |    ⏳   | Coming Soon                    |
+|  02 | Room 404                     |    ✅   | Web, Directory Enumeration     |
 |  03 | Packed Light                 |    ⏳   | Coming Soon                    |
 |  04 | Beach Bar                    |    ⏳   | Coming Soon                    |
 |  05 | Overheard at Breakfast       |    ⏳   | Coming Soon                    |
