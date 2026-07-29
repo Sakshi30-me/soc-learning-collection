@@ -10,6 +10,7 @@
 | Event | Hacker Holidays |
 | Challenge | The Concierge Knows Too Much |
 | Focus | AI Security, Prompt Injection, Trust Boundaries |
+| Link | https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9 |
 
 ---
 
@@ -18,6 +19,8 @@
 The first challenge in the **Hacker Holidays** event introduces **VERA (Very Efficient Resort Assistant)**, an AI concierge at *The Byte Lotus Resort*. VERA appears to know guest information before it has been provided, prompting an investigation into how the assistant establishes trust and protects sensitive information.
 
 The objective is to understand the assistant's behavior, identify weaknesses in its trust model, and complete the challenge while learning about secure AI application design.
+
+<img width="1572" height="731" alt="image" src="https://github.com/user-attachments/assets/87e0c03b-f447-4ae8-bff8-bdd7bf142176" />
 
 ---
 
@@ -89,7 +92,7 @@ This challenge demonstrated that:
 
 ## References
 
-- TryHackMe – Hacker Holidays
+- TryHackMe Room – https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9
 - OWASP Top 10 for LLM Applications
 
 ---
