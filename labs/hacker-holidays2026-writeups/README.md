@@ -1,5 +1,7 @@
 # 🏖️ TryHackMe – Hacker Holidays 2026 Write-ups
 
+<img width="1905" height="911" alt="image" src="https://github.com/user-attachments/assets/22f1aae5-c8a7-49ea-866e-29c73feb49c4" />
+
 Welcome to my write-up repository for **Hacker Holidays**, a seasonal cybersecurity event hosted on **TryHackMe**.
 
 The event takes place at **The Byte Lotus**, a fictional five-star resort with intentionally vulnerable systems. Across multiple daily challenges, participants investigate security flaws involving web applications, AI systems, authentication, cryptography, and other cybersecurity concepts.
@@ -92,3 +94,17 @@ This repository serves as a cybersecurity learning portfolio, demonstrating my a
 ## Disclaimer
 
 These write-ups are intended for educational purposes only. They focus on explaining security concepts and methodologies while respecting TryHackMe's platform and preserving the intended learning experience by excluding flags, hidden prompts, and full exploit details.
+
+---
+
+## 👨‍💻 Author
+
+**Sakshi Maurya**
+
+Cybersecurity learner documenting my hands-on journey through SOC labs, CTFs, and security investigations.
+
+### Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sakshi-maurya-824931302
+- 🎯 **TryHackMe:** https://tryhackme.com/p/SakshiMaurya
+
