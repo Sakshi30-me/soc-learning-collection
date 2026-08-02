@@ -110,6 +110,6 @@ Cybersecurity learner documenting my hands-on journey through SOC labs, CTFs, an
 
 ### Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sakshi-maurya-824931302
-- 🎯 **TryHackMe:** https://tryhackme.com/p/SakshiMaurya
+- 💼 **LinkedIn:** [Sakshi Maurya](https://www.linkedin.com/in/sakshi-maurya-824931302)
+- 🎯 **TryHackMe:** [SakshiMaurya](https://tryhackme.com/p/SakshiMaurya)
 
