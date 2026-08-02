@@ -20,7 +20,7 @@ This repository documents my learning journey through each challenge by focusing
 
 **Theme:** The Byte Lotus Resort
 
-**Link:** https://tryhackme.com/hackerholidays
+**Link:** [Hacker Holidays 2026](https://tryhackme.com/hackerholidays)
 
 > *The WiFi is open. Everything here is complimentary, including access to things you were never meant to find.*
 
@@ -34,17 +34,18 @@ This repository documents my learning journey through each challenge by focusing
 | --: | ---------------------------- | :----: | --------------------------------|
 |  01 | The Concierge Knows Too Much |    ✅   | Prompt Injection, LLM Security |
 |  02 | Room 404                     |    ✅   | Web, Directory Enumeration     |
-|  03 | Packed Light                 |    ⏳   | Coming Soon                    |
-|  04 | Beach Bar                    |    ⏳   | Coming Soon                    |
-|  05 | Overheard at Breakfast       |    ⏳   | Coming Soon                    |
-|  06 | Do Not Disturb               |    ⏳   | Coming Soon                    |
-|  07 | Towel on the Sunbed          |    ⏳   | Coming Soon                    |
-|  08 | CryptoCabana                 |    ⏳   | Coming Soon                    |
-|  09 | The Hollow Shell             |    ⏳   | Coming Soon                    |
-|  10 | Infinity Pool                |    ⏳   | Coming Soon                    |
-|  11 | After Hours                  |    ⏳   | Coming Soon                    |
-|  12 | The Guestbook                |    ⏳   | Coming Soon                    |
-|  13 | Management Wants a Word      |    ⏳   | Coming Soon                    |
+|  03 | Complimentary                |    ✅   | Cloud, AWS, Cognito, IAM Misconfiguration |
+|  04 | Packed Light                 |    ✅   | Network Forensics, PCAP Analysis, Cryptography |
+|  05 | Beach Bar                    |    ✅   | Web, Boot2root                 |
+|  06 | Overheard at Breakfast       |    ✅   | OSINT, Social Media, Hashing   |
+|  07 | Do Not Disturb               |    ⏳   | Coming Soon                    |
+|  08 | Towel on the Sunbed          |    ⏳   | Coming Soon                    |
+|  09 | CryptoCabana                 |    ⏳   | Coming Soon                    |
+|  10 | The Hollow Shell             |    ⏳   | Coming Soon                    |
+|  11 | Infinity Pool                |    ⏳   | Coming Soon                    |
+|  12 | After Hours                  |    ⏳   | Coming Soon                    |
+|  13 | The Guestbook                |    ⏳   | Coming Soon                    |
+|  14 | Management Wants a Word      |    ⏳   | Coming Soon                    |
 
 ---
 
@@ -53,8 +54,12 @@ This repository documents my learning journey through each challenge by focusing
 ```text
 Day-01-The-Concierge-Knows-Too-Much/
 Day-02-Room-404/
-Day-03-Packed-Light/
+Day-03-Complimentary/
+Day-04-Packed-Light/
+Day-05-Beach-Bar/
+Day-06-Overheard-at-Breakfast/
 ...
+.....
 ```
 
 Each challenge directory contains:
