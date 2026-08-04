@@ -38,8 +38,8 @@ This repository documents my learning journey through each challenge by focusing
 |  04 | Packed Light                 |    ✅   | Network Forensics, PCAP Analysis, Cryptography |
 |  05 | Beach Bar                    |    ✅   | Web, Boot2root                 |
 |  06 | Overheard at Breakfast       |    ✅   | OSINT, Social Media, Hashing   |
-|  07 | Do Not Disturb               |    ⏳   | Coming Soon                    |
-|  08 | Towel on the Sunbed          |    ⏳   | Coming Soon                    |
+|  07 | Do Not Disturb               |    ✅   | Web, Boot2root                    |
+|  08 | Towel on the Sunbed          |    ✅   | Web Exploitation, Business Logic, Burp Suite, API Abuse |
 |  09 | CryptoCabana                 |    ⏳   | Coming Soon                    |
 |  10 | The Hollow Shell             |    ⏳   | Coming Soon                    |
 |  11 | Infinity Pool                |    ⏳   | Coming Soon                    |
@@ -58,7 +58,8 @@ Day-03-Complimentary/
 Day-04-Packed-Light/
 Day-05-Beach-Bar/
 Day-06-Overheard-at-Breakfast/
-...
+Day-07-Do-Not-Disturb/
+Day-08-Towel-On-The-Sunbed/
 .....
 ```
 
