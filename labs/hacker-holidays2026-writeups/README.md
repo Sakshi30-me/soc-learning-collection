@@ -41,7 +41,7 @@ This repository documents my learning journey through each challenge by focusing
 |  07 | Do Not Disturb               |    ✅   | Web, Boot2root                    |
 |  08 | Towel on the Sunbed          |    ✅   | Web Exploitation, Business Logic, Burp Suite, API Abuse |
 |  09 | CryptoCabana                 |    ✅   | Cloud, Azure, Storage, Key Vault |
-|  10 | The Hollow Shell             |    ⏳   | Coming Soon                    |
+|  10 | The Hollow Shell             |    ✅   | Web                   |
 |  11 | Infinity Pool                |    ⏳   | Coming Soon                    |
 |  12 | After Hours                  |    ⏳   | Coming Soon                    |
 |  13 | The Guestbook                |    ⏳   | Coming Soon                    |
@@ -61,6 +61,7 @@ Day-06-Overheard-at-Breakfast/
 Day-07-Do-Not-Disturb/
 Day-08-Towel-On-The-Sunbed/
 Day-09-CryptoCabana/
+Day-10-The-Hollow-Shell/
 ...
 .....
 ```
