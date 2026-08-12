@@ -41,11 +41,11 @@ This repository documents my learning journey through each challenge by focusing
 |  07 | Do Not Disturb               |    ✅   | Web, Boot2root                    |
 |  08 | Towel on the Sunbed          |    ✅   | Web Exploitation, Business Logic, Burp Suite, API Abuse |
 |  09 | CryptoCabana                 |    ✅   | Cloud, Azure, Storage, Key Vault |
-|  10 | The Hollow Shell             |    ✅   | Web                   |
-|  11 | Infinity Pool                |    ⏳   | Coming Soon                    |
-|  12 | After Hours                  |    ⏳   | Coming Soon                    |
-|  13 | The Guestbook                |    ⏳   | Coming Soon                    |
-|  14 | Management Wants a Word      |    ⏳   | Coming Soon                    |
+|  10 | The Hollow Shell             |    ✅   | Web Exploitation, File Upload, Zip Slip |
+|  11 | Infinity Pool                |    ✅   | Network Enumeration, Service Discovery, Boot2Root |
+|  12 | After Hours                  |    ✅   | Windows Forensics, WMI, Reverse Engineering |
+|  13 | The Guestbook                |    ✅   | AI, Web Security, Application Analysis |
+|  14 | Management Wants a Word      |    ✅   | Forensics / Investigation |
 
 ---
 
@@ -62,18 +62,25 @@ Day-07-Do-Not-Disturb/
 Day-08-Towel-On-The-Sunbed/
 Day-09-CryptoCabana/
 Day-10-The-Hollow-Shell/
-...
-.....
+Day-11-Infinity-Pool/
+Day-12-After-Hours/
+Day-13-The-Guestbook/
+Day-14-Management-Wants-a-Word/
 ```
 
-Each challenge directory contains:
+Each challenge directory contains, where applicable:
 
 * Challenge overview
 * Objectives
 * Methodology
+* Investigation walkthrough
 * Security concepts
+* Skills practiced
+* MITRE ATT&CK mapping
 * Lessons learned
 * Defensive recommendations
+* References
+* Disclaimer
 
 ---
 
@@ -106,11 +113,23 @@ These write-ups are intended for educational purposes only. They focus on explai
 
 ---
 
+## 🏁 Final Progress
+
+Completing all 14 Hacker Holidays challenges gave me exposure to a broad range of cybersecurity domains.
+
+From **LLM security and web exploitation** in the early rooms to **cloud security, network enumeration, Windows forensics, and security investigations** in the later rooms, the event helped me connect individual security concepts into a more complete investigation methodology.
+
+Most importantly, the experience reinforced that cybersecurity is not just about knowing tools or commands. It is about **asking the right questions, following evidence, understanding how systems work, and continuously learning when something is unfamiliar.**
+
+---
+
 ## 👨‍💻 Author
 
 **Sakshi Maurya**
 
 Cybersecurity learner documenting my hands-on journey through SOC labs, CTFs, and security investigations.
+
+> Learning cybersecurity one challenge at a time. 🛡️
 
 ### Connect with Me
 
